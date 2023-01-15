@@ -7,7 +7,7 @@
       <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <img src="home.png">
+    <img src="home.png" alt="#">
 </body>
 </html>
 
