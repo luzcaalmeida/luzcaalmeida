@@ -7,8 +7,8 @@
       <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div>
-        aaaaa
+    <div style="color: blue">
+        
     </div>
 </body>
 </html>
