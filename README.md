@@ -1,6 +1,6 @@
 [![Luzcaa Banner](./assets/cover-readme.png)](https://github.com/luzcaalmeida)
 
-[![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](luzcaa1#7885)
+[![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](discord.com/users212688102639009792)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
