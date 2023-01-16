@@ -15,14 +15,15 @@
 </div>
 
 ## Hey there 👋
-I`m Lucas Almeida, front-end student and Web Design junior.
-I`m working in my code skills to improve my dream  to be a front-end dev. I like a lot to build websites and make people happy with my creativity.
+I'm Lucas Almeida, front-end student and Web Design junior.
+I'm working in my code skills to improve my dream  to be a front-end dev. I like a lot to build websites and make people happy with my creativity.
 
-<p align="center">My 
+### Design Skills 
+<p><img src="https://skillicons.dev/icons?i=ps" /> 
+<p><img src="https://skillicons.dev/icons?i=ai" />
 
-## 📝 Latest Blog Posts
+### Coding Skills 
 
-<br>
 
 <!-- BLOG-POST-LIST:START -->
 - [Blogfolio V3 - Update 2022](https://braydoncoyer.dev/blog/blogfolio-v3-update-2022)
