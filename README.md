@@ -1,14 +1,19 @@
 [![Luzcaa Banner](./assets/cover-readme.png)](https://github.com/luzcaalmeida)
 
+
+<a href="https://discord.com/users/212688102639009792">
+  <img align="center" style="margin:0.5rem" src="https://skillicons.dev/icons?i=discord&theme=dark" />
+</a>
 [![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/users/212688102639009792)
 [![Twitter](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/luzcaalmeida)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/luzcaalmeida/)
 
 Hey there 👋
 
-I’m Braydon, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I`m Lucas Almeida, front-end student and Web Design junior.
+I`m working in my code skills to improve my dream  to be a front-end dev. I like a lot to build websites and make people happy with my creativity.
 
-Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
+<p align="center">My 
 
 ## 📝 Latest Blog Posts
 
