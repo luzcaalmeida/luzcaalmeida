@@ -1,4 +1,4 @@
-<a href="https://github.com/luzcaalmeida" alt="Discord">
+<a class="home" href="https://github.com/luzcaalmeida" alt="Discord">
   <img align="center" style="margin:0.5rem" src="assets/cover-readme.png" />
 </a>
 
@@ -19,7 +19,7 @@ I'm Lucas Almeida, front-end student and Web Design junior.
 I'm working in my code skills to improve my dream  to be a front-end dev. I like a lot to build websites and make people happy with my creativity.
 
 ### Design Skills 
-[![My Skills](https://skillicons.dev/icons?i=ai,ps)](#hey-there-)
+[![My Skills](https://skillicons.dev/icons?i=ai,ps)](#home)
 
 
 ### Coding Skills 
