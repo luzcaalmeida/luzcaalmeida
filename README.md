@@ -1,9 +1,9 @@
 [![Luzcaa Banner](./assets/cover-readme.png)](https://github.com/luzcaalmeida)
-<div align="center">
+
 [![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/users/212688102639009792)
 [![Twitter](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/luzcaalmeida)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/luzcaalmeida/)
-</div>
+
 Hey there 👋
 
 I’m Braydon, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
