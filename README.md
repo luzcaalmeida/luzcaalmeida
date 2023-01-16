@@ -19,7 +19,7 @@ I'm Lucas Almeida, front-end student and Web Design junior.
 I'm working in my code skills to improve my dream  to be a front-end dev. I like a lot to build websites and make people happy with my creativity.
 
 ### Design Skills 
-<img src="https://skillicons.dev/icons?i=ps" /> <img src="https://skillicons.dev/icons?i=ai" /> 
+<img href="" src="https://skillicons.dev/icons?i=ps" /> <img href="" src="https://skillicons.dev/icons?i=ai" /> 
 
 
 ### Coding Skills 
