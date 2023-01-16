@@ -19,27 +19,17 @@ I'm Lucas Almeida, front-end student and Web Design junior.
 I'm working in my code skills to improve my dream  to be a front-end dev. I like a lot to build websites and make people happy with my creativity.
 
 ### Design Skills 
-[![My Skills](https://skillicons.dev/icons?i=ai,ps)](#home)
-
+[![My Skills](https://skillicons.dev/icons?i=ai,ps)](#hey-there-)
 
 ### Coding Skills 
-
-
-<!-- BLOG-POST-LIST:START -->
-- [Blogfolio V3 - Update 2022](https://braydoncoyer.dev/blog/blogfolio-v3-update-2022)
-- [How To Create an Animated Loading Spinner with Tailwind CSS](https://braydoncoyer.dev/blog/how-to-create-an-animated-loading-spinner-with-tailwind-css)
-- [Do Interview Kickstart Courses Live Up to the Cost?](https://braydoncoyer.dev/blog/do-interview-kickstart-courses-live-up-to-the-cost)
-- [5 Basic Tips for Angular Unit Testing](https://braydoncoyer.dev/blog/5-basic-tips-for-angular-unit-testing)
-- [Learn How to Click a Button when Angular Unit Testing](https://braydoncoyer.dev/blog/learn-how-to-click-a-button-when-angular-unit-testing)
-<!-- BLOG-POST-LIST:END -->
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](#hey-there-)
 
 <br>
 
 ## 📌 Pinned Repositories
 
-<br>
-
-<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
+Coming soon.
+<!--<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
@@ -59,22 +49,12 @@ I'm working in my code skills to improve my dream  to be a front-end dev. I like
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<br>
+
 <br>
 
 ## &#x1f4c8; GitHub Stats
 
-<br>
 
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydoncoyer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=braydoncoyer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
-
-<br>
 <br>
 
 ## 💼 Skills
@@ -151,3 +131,4 @@ Check back at the top of the hour for a new quote!
 > ### Want to know how I made this README?
 >
 > Check out my [tutorial](https://braydoncoyer.dev/blog/creating-a-killer-github-profile-readme-part-1/)!
+-->
