@@ -2,7 +2,9 @@
   <img align="center" style="margin:0.5rem" src="assets/cover-readme.png" />
 </a>
 
-<div align="center">
+## Contacts
+
+<div>
 <a href="https://discord.com/users/212688102639009792" alt="Discord">
   <img align="center" style="margin:0.5rem" src="https://skillicons.dev/icons?i=discord&theme=dark" />
 </a>
