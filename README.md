@@ -2,7 +2,7 @@
   <img align="center" style="margin:0.5rem" src="assets/cover-readme.png" />
 </a>
 
-
+<div align="center">
 <a href="https://discord.com/users/212688102639009792" alt="Discord">
   <img align="center" style="margin:0.5rem" src="https://skillicons.dev/icons?i=discord&theme=dark" />
 </a>
@@ -12,6 +12,7 @@
 <a href="https://www.linkedin.com/in/luzcaalmeida/" alt="LinkedIn">
   <img align="center" style="margin:0.5rem" src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
 </a>
+</div>
 
 Hey there 👋
 
