@@ -14,11 +14,11 @@
 </a>
 </div>
 
-Hey there 👋
+<p size="14px">Hey there 👋
 
 I`m Lucas Almeida, front-end student and Web Design junior.
 I`m working in my code skills to improve my dream  to be a front-end dev. I like a lot to build websites and make people happy with my creativity.
-
+</p>
 <p align="center">My 
 
 ## 📝 Latest Blog Posts
