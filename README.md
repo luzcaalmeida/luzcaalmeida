@@ -1,12 +1,17 @@
-[![Luzcaa Banner](./assets/cover-readme.png)](https://github.com/luzcaalmeida)
+<a href="https://github.com/luzcaalmeida" alt="Discord">
+  <img align="center" style="margin:0.5rem" src="assets/cover-readme.png" />
+</a>
 
 
-<a href="https://discord.com/users/212688102639009792">
+<a href="https://discord.com/users/212688102639009792" alt="Discord">
   <img align="center" style="margin:0.5rem" src="https://skillicons.dev/icons?i=discord&theme=dark" />
 </a>
-[![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/users/212688102639009792)
-[![Twitter](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/luzcaalmeida)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/luzcaalmeida/)
+<a href="https://twitter.com/luzcaalmeida" alt="Twitter">
+  <img align="center" style="margin:0.5rem" src="https://skillicons.dev/icons?i=twitter&theme=dark" />
+</a>
+<a href="https://www.linkedin.com/in/luzcaalmeida/" alt="LinkedIn">
+  <img align="center" style="margin:0.5rem" src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+</a>
 
 Hey there 👋
 
