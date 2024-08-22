@@ -18,7 +18,7 @@
 
 ## Hey there 👋
 I'm Lucas Almeida, front-end student and Web Design junior.
-I'm working in my code skills to improve my dream  to be a front-end dev. I like a lot to build websites and make people happy with my creativity.
+I'm working in my code skills to improve my dream to be a front-end dev. I like a lot to build websites and make people happy with my creativity.
 
 ### Design Skills 
 [![My Skills](https://skillicons.dev/icons?i=ai,ps)](#hey-there-)
@@ -30,7 +30,8 @@ I'm working in my code skills to improve my dream  to be a front-end dev. I like
 
 ## 📌 Pinned Repositories
 
-Coming soon.
+<a href ="https://github.com/luzcaalmeida/devlinks" alt= "Repositório RocketSeat Lucas Almeida">
+
 <!--<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
