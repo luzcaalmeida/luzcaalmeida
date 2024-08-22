@@ -23,7 +23,7 @@ I'm working in my code skills to improve my dream to be a front-end dev. I like 
 ### Design Skills 
 [![My Skills](https://skillicons.dev/icons?i=ai,ps)](#hey-there-)
 
-### Coding Skills 
+### Coding Skills (learning)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](#hey-there-)
 
 <br>
